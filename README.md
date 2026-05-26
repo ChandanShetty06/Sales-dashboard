@@ -1,4 +1,4 @@
-# Sales Dashboard
+# Sales & Profitability Performance Analytics
 
 ## 📊 Project Overview
 This repository contains an interactive **Sales Analytics Dashboard** built using advanced Microsoft Excel features. The project transforms multi-year retail transactional data (2014–2017) into clear, actionable business intelligence. It targets key metrics including performance optimization, seasonal elasticity tracking, geospatial distribution, and client profit concentration to identify operational margin leaks.

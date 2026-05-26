@@ -19,7 +19,9 @@ This repository contains an interactive **Sales Analytics Dashboard** built usin
 ## 📈 Executive Business Insights Extracted
 
 1. **The Furniture Margin Gap:** While specific high-volume products like *Chairs* and *Tables* scale to the top of the sales funnel (generating over $328K and $206K respectively), the *Profit Gained Over Time* trend exposes a critical vulnerability—the entire **Furniture** category yields near-flat net profit growth across 4 years compared to the accelerating growth lines of *Technology* and *Office Supplies*.
+
 2. **Q4 Demand Seasonality:** The *Monthly Sales* trajectory highlights a reliable seasonal pattern, with sharp revenue spikes peaking aggressively in **September (Month 9)** and **November (Month 11)**. This offers stakeholders clear timelines for inventory stocking and targeted promotional pushes.
+
 3. **High-Value Account Concentration:** Elite revenue is heavily centralized within a small client subset. The *Top 5 Customers Making Profits* visualization reveals that just two major accounts—**Tamara Chand (27%)** and **Raymond Buch (21%)**—drive nearly half (48%) of the core profitability pool, emphasizing accounts critical for high-touch retention strategies.
 
 ---
